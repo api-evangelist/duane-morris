@@ -1,0 +1,483 @@
+aid: duane-morris
+name: Duane Morris
+description: >-
+  Duane Morris LLP is a Philadelphia-headquartered, full-service U.S. and
+  international law firm founded in 1904 by Russell Duane, Steven Heckscher,
+  and Roland S. Morris. Chaired by Matthew A. Taylor, the firm describes
+  itself as "a law firm with more than 900 attorneys in offices across the
+  United States and internationally" — with a U.S. footprint spanning the
+  East Coast, Texas, the Mountain West, and California, plus international
+  offices in London, Singapore, Vietnam (Hanoi, Ho Chi Minh City), Shanghai,
+  Myanmar, and joint ventures/alliances reaching Mexico and Latin America.
+  An Am Law 100 firm since 2001, Duane Morris is known for depth in
+  intellectual property (including patent prosecution and PTAB practice),
+  trial and appellate litigation, real estate, corporate transactions,
+  employment, healthcare, cannabis, and life sciences. The firm publishes an
+  extensive LexBlog-powered thought-leadership network of more than 50
+  practice-area blogs, all of which expose RSS 2.0 feeds via the standard
+  WordPress /feed/ convention. Duane Morris does not expose any public
+  developer API, SDK, OpenAPI/AsyncAPI spec, GraphQL endpoint, webhooks,
+  status page, or developer portal; the GitHub organization
+  github.com/duanemorris exists but has no public repositories. The firm's
+  only machine-readable surfaces are the RSS feeds of its blog network.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/duane-morris/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+kind: company
+tags:
+  - Antitrust
+  - Appellate
+  - Arbitration
+  - Banking
+  - Bankruptcy
+  - Cannabis
+  - Capital Markets
+  - Class Action
+  - Construction
+  - Corporate
+  - Cybersecurity
+  - Data Privacy
+  - Education
+  - Employment Law
+  - Energy
+  - Environmental
+  - ESG
+  - Fintech
+  - Franchise
+  - Gaming
+  - Healthcare
+  - Immigration
+  - Insurance
+  - Intellectual Property
+  - International Arbitration
+  - International Law
+  - Labor
+  - Law
+  - Law Firm
+  - Legal
+  - Legal Services
+  - Life Sciences
+  - Litigation
+  - Mergers and Acquisitions
+  - Patents
+  - PFAS
+  - Private Equity
+  - Products Liability
+  - Real Estate
+  - Regulatory
+  - Securities
+  - Sports
+  - Sustainability
+  - Tax
+  - Technology
+  - Trade Secrets
+  - Transportation
+  - White Collar Defense
+apis: []
+common:
+  - type: Website
+    url: https://www.duanemorris.com
+  - type: About
+    url: https://www.duanemorris.com/site/about.html
+  - type: Practice Areas
+    url: https://www.duanemorris.com/site/practiceareas.html
+  - type: Offices
+    url: https://www.duanemorris.com/site/offices.html
+  - type: Attorneys
+    url: https://www.duanemorris.com/site/attorneys.html
+  - type: News
+    url: https://www.duanemorris.com/site/news.html
+  - type: Alerts
+    url: https://www.duanemorris.com/site/alerts.html
+  - type: Blogs
+    url: https://blogs.duanemorris.com
+  - type: GitHub
+    url: https://github.com/duanemorris
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/duane-morris-llp
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Duane_Morris
+  - type: Contact
+    url: https://www.duanemorris.com/site/contact.html
+x-firm-profile:
+  founded: '1904'
+  founders:
+    - Russell Duane
+    - Steven Heckscher
+    - Roland S. Morris
+  headquarters: 30 South 17th Street, Philadelphia, Pennsylvania
+  chair: Matthew A. Taylor
+  coo: Charles J. O'Donnell
+  lawyers: 900+
+  offices: 30+
+  revenue: $526.23 million USD (2021, per Wikipedia citing Am Law)
+  profit_per_equity_partner: $1.081 million USD (2021)
+  structure: Limited Liability Partnership (LLP)
+  am_law_ranking: Am Law 200 #82 (2025 gross revenue); NLJ 500 #74 (2025 size)
+  am_law_status: Am Law 100 member since 2001
+  positioning: >-
+    "A law firm with more than 900 attorneys in offices across the United
+    States and internationally, is asked by a broad array of clients to
+    provide innovative solutions to today's legal and business challenges."
+  notable_achievement: 16 consecutive years of revenue growth
+  hbs_case_study: 'Duane Morris: Collaborating for Growth'
+x-practice-areas:
+  - ADA Title III Compliance
+  - Animal Law
+  - Antitrust
+  - Appellate
+  - Artificial Intelligence
+  - Banking and Finance
+  - Bankruptcy and Business Reorganization
+  - Benefits and Executive Compensation
+  - Cannabis
+  - Capital Markets
+  - Class Action Defense
+  - Construction
+  - Corporate
+  - Delaware Business Law
+  - Discovery Strategy and Data Analytics
+  - Education
+  - Energy and Environmental
+  - European Sanctions Enforcement
+  - Fashion, Retail and Consumer Branded Products
+  - Fintech
+  - Franchise
+  - Gaming
+  - Health Law
+  - Immigration
+  - Insurance
+  - Intellectual Property
+  - International Arbitration
+  - Labor and Employment
+  - Lender Liability and Loan Enforcement
+  - Life Sciences
+  - Mergers and Acquisitions
+  - New Markets Tax Credits and Affordable Housing
+  - Non-Compete and Trade Secrets
+  - Opportunity Zones
+  - PFAS and Environmental Mass Tort
+  - Private Client Services (Wealth Planning)
+  - Pro Bono
+  - Products Liability
+  - Project Development, Infrastructure and P3
+  - PTAB Practice
+  - Real Estate
+  - Securities Arbitration
+  - Sports Law
+  - State Attorneys General Practice
+  - Sustainability, Resiliency and Risk Mitigation (ESG)
+  - Tax
+  - Technology Law
+  - Transportation, Automotive and Logistics
+  - Trial and Litigation
+  - White Collar Criminal Defense
+x-industries:
+  - Banking and Finance
+  - Cannabis
+  - Construction
+  - Education
+  - Energy
+  - Fashion and Retail
+  - Gaming and Sports
+  - Healthcare
+  - Insurance
+  - Life Sciences and Biotech
+  - Manufacturing
+  - Real Estate
+  - Technology
+  - Transportation
+x-offices-us:
+  - Atlanta
+  - Austin
+  - Baltimore
+  - Berwyn (satellite)
+  - Boca Raton
+  - Boston
+  - Chicago
+  - Dallas
+  - Fort Worth
+  - Houston
+  - Las Vegas
+  - Los Angeles
+  - Miami
+  - New York
+  - North Jersey
+  - Philadelphia
+  - Pittsburgh
+  - Portland (Maine, satellite)
+  - San Diego
+  - San Francisco
+  - Seattle (satellite)
+  - Silicon Valley
+  - South Jersey
+  - Washington, DC
+  - Wilmington
+x-offices-international:
+  - Hanoi, Vietnam
+  - Ho Chi Minh City, Vietnam
+  - London, United Kingdom
+  - Myanmar (Yangon)
+  - Shanghai, China (joint venture)
+  - Singapore (Duane Morris and Selvam joint venture)
+x-international-alliances:
+  - Mexico
+  - Latin America
+x-mergers:
+  - name: Satterlee Stephens
+    year: '2020-01'
+    location: New York
+    note: New York-based firm absorbed in January 2020.
+x-notable-cases:
+  - name: Markman v. Westview Instruments, Inc.
+    type: Patent infringement (US Supreme Court precedent on claim construction)
+  - name: Tobacco Master Settlement Agreement
+    year: '1998'
+    note: >-
+      Represented Pennsylvania in the 46-state litigation resulting in the
+      ~$206 billion settlement with the major tobacco companies.
+x-notable-alumni:
+  - Roland S. Morris (US Ambassador to Japan; founding partner)
+  - Michael Baylson (US District Judge, Eastern District of Pennsylvania)
+  - Gene E. K. Pratter (US District Judge)
+  - Marjorie Rendell (US Court of Appeals for the Third Circuit)
+  - Mark Singel (Lieutenant Governor of Pennsylvania, 1987-1995)
+x-blogs:
+  - name: ADA Title III Compliance
+    url: https://blogs.duanemorris.com/adatitleiiicompliance/
+    rss: https://blogs.duanemorris.com/adatitleiiicompliance/feed/
+    topic: Disability access compliance
+  - name: Animal Law Developments
+    url: https://blogs.duanemorris.com/animallawdevelopments/
+    rss: https://blogs.duanemorris.com/animallawdevelopments/feed/
+    topic: Animal law
+  - name: Antitrust Law
+    url: https://blogs.duanemorris.com/antitrustlaw/
+    rss: https://blogs.duanemorris.com/antitrustlaw/feed/
+    topic: Antitrust and competition
+  - name: Appellate Review
+    url: https://blogs.duanemorris.com/appellatelaw/
+    rss: https://blogs.duanemorris.com/appellatelaw/feed/
+    topic: Appellate law
+  - name: The Artificial Intelligence Blog
+    url: https://blogs.duanemorris.com/artificialintelligence/
+    rss: https://blogs.duanemorris.com/artificialintelligence/feed/
+    topic: AI law and regulation
+  - name: Banking and Finance Law
+    url: https://blogs.duanemorris.com/bankinglaw/
+    rss: https://blogs.duanemorris.com/bankinglaw/feed/
+    topic: Banking and finance
+  - name: Benefits Law
+    url: https://blogs.duanemorris.com/benefitslaw/
+    rss: https://blogs.duanemorris.com/benefitslaw/feed/
+    topic: Employee benefits
+  - name: Business Reorganization and Financial Restructuring
+    url: https://blogs.duanemorris.com/businessreorganizationfinancialrestructuring/
+    rss: https://blogs.duanemorris.com/businessreorganizationfinancialrestructuring/feed/
+    topic: Bankruptcy and restructuring
+  - name: Cannabis Industry
+    url: https://blogs.duanemorris.com/cannabis/
+    rss: https://blogs.duanemorris.com/cannabis/feed/
+    topic: Cannabis law and regulation
+  - name: Capital Markets
+    url: https://blogs.duanemorris.com/capitalmarkets/
+    rss: https://blogs.duanemorris.com/capitalmarkets/feed/
+    topic: Securities and capital markets
+  - name: Class Action Defense
+    url: https://blogs.duanemorris.com/classactiondefense/
+    rss: https://blogs.duanemorris.com/classactiondefense/feed/
+    topic: Class action litigation defense
+  - name: Concerted Action - Labor Blog
+    url: https://blogs.duanemorris.com/laborlaw/
+    rss: https://blogs.duanemorris.com/laborlaw/feed/
+    topic: Labor and employment
+  - name: Construction Law
+    url: https://blogs.duanemorris.com/constructionlaw/
+    rss: https://blogs.duanemorris.com/constructionlaw/feed/
+    topic: Construction
+  - name: Coronavirus (COVID-19)
+    url: https://blogs.duanemorris.com/coronaviruscovid19/
+    rss: https://blogs.duanemorris.com/coronaviruscovid19/feed/
+    topic: Pandemic-related legal updates (archive)
+  - name: Cuba, Puerto Rico and the Caribbean
+    url: https://blogs.duanemorris.com/puertoricoandcaribbean/
+    rss: https://blogs.duanemorris.com/puertoricoandcaribbean/feed/
+    topic: Regional law
+  - name: Discovery Strategy and Data Analytics
+    url: https://blogs.duanemorris.com/discoverystrategy/
+    rss: https://blogs.duanemorris.com/discoverystrategy/feed/
+    topic: E-discovery and analytics
+  - name: Diversity and Inclusion
+    url: https://blogs.duanemorris.com/diversityandinclusion/
+    rss: https://blogs.duanemorris.com/diversityandinclusion/feed/
+    topic: DE&I and workplace
+  - name: Delaware Business Law
+    url: https://blogs.duanemorris.com/delawarebusinesslaw/
+    rss: https://blogs.duanemorris.com/delawarebusinesslaw/feed/
+    topic: Delaware corporate law
+  - name: Duane Morris Institute
+    url: https://duanemorrisinstitute.com/blog/
+    rss: https://duanemorrisinstitute.com/blog/feed/
+    topic: Employment and workplace law (institute)
+  - name: Duane Morris and Selvam
+    url: https://blogs.duanemorris.com/duanemorrisandselvam/
+    rss: https://blogs.duanemorris.com/duanemorrisandselvam/feed/
+    topic: Singapore joint venture practice
+  - name: Duane Morris London
+    url: https://blogs.duanemorris.com/london/
+    rss: https://blogs.duanemorris.com/london/feed/
+    topic: UK practice
+  - name: 'UpdateED: Education Law'
+    url: https://blogs.duanemorris.com/updateeducation/
+    rss: https://blogs.duanemorris.com/updateeducation/feed/
+    topic: Education law
+  - name: Energy and Environmental
+    url: https://blogs.duanemorris.com/energyenvironmental/
+    rss: https://blogs.duanemorris.com/energyenvironmental/feed/
+    topic: Energy and environmental
+  - name: European Sanctions Enforcement
+    url: https://blogs.duanemorris.com/europeansanctionsenforcement/
+    rss: https://blogs.duanemorris.com/europeansanctionsenforcement/feed/
+    topic: European sanctions
+  - name: Fashion, Retail and Consumer Branded Products
+    url: https://blogs.duanemorris.com/fashionretailbrandedconsumergoods/
+    rss: https://blogs.duanemorris.com/fashionretailbrandedconsumergoods/feed/
+    topic: Fashion and retail law
+  - name: Fintechnically Speaking
+    url: https://blogs.duanemorris.com/fintech/
+    rss: https://blogs.duanemorris.com/fintech/feed/
+    topic: Fintech law
+  - name: Franchise Law
+    url: https://blogs.duanemorris.com/franchiselaw/
+    rss: https://blogs.duanemorris.com/franchiselaw/feed/
+    topic: Franchise law
+  - name: Gaming Law
+    url: https://blogs.duanemorris.com/gaminglaw/
+    rss: https://blogs.duanemorris.com/gaminglaw/feed/
+    topic: Gaming and sports betting
+  - name: Green IP
+    url: https://blogs.duanemorris.com/greenip/
+    rss: https://blogs.duanemorris.com/greenip/feed/
+    topic: IP and sustainability
+  - name: Health Law
+    url: https://blogs.duanemorris.com/healthlaw/
+    rss: https://blogs.duanemorris.com/healthlaw/feed/
+    topic: Healthcare law
+  - name: Immigration Law
+    url: https://blogs.duanemorris.com/immigrationlaw/
+    rss: https://blogs.duanemorris.com/immigrationlaw/feed/
+    topic: Immigration
+  - name: Insurance Law
+    url: https://blogs.duanemorris.com/insurancelaw/
+    rss: https://blogs.duanemorris.com/insurancelaw/feed/
+    topic: Insurance
+  - name: International Arbitration
+    url: https://blogs.duanemorris.com/internationalarbitration/
+    rss: https://blogs.duanemorris.com/internationalarbitration/feed/
+    topic: International arbitration
+  - name: The Legal Dish
+    url: https://blogs.duanemorris.com/thelegaldish/
+    rss: https://blogs.duanemorris.com/thelegaldish/feed/
+    topic: Food, beverage, and hospitality
+  - name: Lender Liability and Loan Enforcement
+    url: https://blogs.duanemorris.com/lenderliabilityandloanenforcement/
+    rss: https://blogs.duanemorris.com/lenderliabilityandloanenforcement/feed/
+    topic: Banking and lending litigation
+  - name: Life Sciences Law
+    url: https://blogs.duanemorris.com/lifescienceslaw/
+    rss: https://blogs.duanemorris.com/lifescienceslaw/feed/
+    topic: Biotech and life sciences
+  - name: New Markets Tax Credit, Historic Tax Credits, and Affordable Housing
+    url: https://blogs.duanemorris.com/newmarketslaw/
+    rss: https://blogs.duanemorris.com/newmarketslaw/feed/
+    topic: Tax credits and affordable housing
+  - name: Non-Compete and Trade Secrets Law
+    url: https://blogs.duanemorris.com/tradesecretslaw/
+    rss: https://blogs.duanemorris.com/tradesecretslaw/feed/
+    topic: Trade secrets and restrictive covenants
+  - name: Opportunity Zones - Insights From the Land of OZ
+    url: https://blogs.duanemorris.com/opportunityzones/
+    rss: https://blogs.duanemorris.com/opportunityzones/feed/
+    topic: Opportunity Zone tax law
+  - name: PFAS
+    url: https://blogs.duanemorris.com/pfas/
+    rss: https://blogs.duanemorris.com/pfas/feed/
+    topic: PFAS environmental law
+  - name: Private Client Services
+    url: https://blogs.duanemorris.com/wealthplanning/
+    rss: https://blogs.duanemorris.com/wealthplanning/feed/
+    topic: Wealth and estate planning
+  - name: Pro Bono
+    url: https://blogs.duanemorris.com/probonolaw/
+    rss: https://blogs.duanemorris.com/probonolaw/feed/
+    topic: Pro bono practice
+  - name: Products Liability
+    url: https://blogs.duanemorris.com/productsliability/
+    rss: https://blogs.duanemorris.com/productsliability/feed/
+    topic: Products liability litigation
+  - name: Project Development, Infrastructure and P3
+    url: https://blogs.duanemorris.com/projectdevelopmentinfrastructurep3/
+    rss: https://blogs.duanemorris.com/projectdevelopmentinfrastructurep3/feed/
+    topic: Infrastructure and public-private partnerships
+  - name: PTAB Practice
+    url: https://blogs.duanemorris.com/ptab/
+    rss: https://blogs.duanemorris.com/ptab/feed/
+    topic: Patent Trial and Appeal Board practice
+  - name: Securities Arbitration
+    url: https://blogs.duanemorris.com/securitiesarbitration/
+    rss: https://blogs.duanemorris.com/securitiesarbitration/feed/
+    topic: Securities arbitration
+  - name: Sports Law
+    url: https://blogs.duanemorris.com/sportslaw/
+    rss: https://blogs.duanemorris.com/sportslaw/feed/
+    topic: Sports law
+  - name: State Attorneys General
+    url: https://blogs.duanemorris.com/stateattorneysgeneral/
+    rss: https://blogs.duanemorris.com/stateattorneysgeneral/feed/
+    topic: State AG regulatory practice
+  - name: Sustainability, Resiliency and Risk Mitigation
+    url: https://blogs.duanemorris.com/esg/
+    rss: https://blogs.duanemorris.com/esg/feed/
+    topic: ESG and sustainability
+  - name: TechLaw
+    url: https://blogs.duanemorris.com/techlaw/
+    rss: https://blogs.duanemorris.com/techlaw/feed/
+    topic: Technology law
+  - name: Transportation, Automotive and Logistics
+    url: https://blogs.duanemorris.com/transportation/
+    rss: https://blogs.duanemorris.com/transportation/feed/
+    topic: Transportation law
+  - name: UK Employment Law Update
+    url: https://blogs.duanemorris.com/ukemploymentupdate/
+    rss: https://blogs.duanemorris.com/ukemploymentupdate/feed/
+    topic: UK labor and employment
+  - name: Vietnam
+    url: https://blogs.duanemorris.com/vietnam/
+    rss: https://blogs.duanemorris.com/vietnam/feed/
+    topic: Vietnam practice
+  - name: White Collar Criminal Law
+    url: https://blogs.duanemorris.com/whitecollarcriminallaw/
+    rss: https://blogs.duanemorris.com/whitecollarcriminallaw/feed/
+    topic: White collar criminal defense
+x-developer-surface: none
+x-developer-surface-notes: >-
+  Duane Morris LLP publishes no public developer API, SDK, CLI, OpenAPI or
+  AsyncAPI specification, JSON Schema, GraphQL endpoint, webhooks, status
+  page, or developer portal. The GitHub organization at
+  https://github.com/duanemorris exists but holds no public repositories.
+  The only machine-readable surfaces produced by the firm are the RSS 2.0
+  feeds exposed by its LexBlog-hosted blog network — more than 50 practice
+  and industry blogs at blogs.duanemorris.com (and the Duane Morris Institute
+  at duanemorrisinstitute.com), each reachable via the standard WordPress
+  /feed/ convention. RSS validity has been spot-confirmed on the Class
+  Action Defense, Cannabis Industry, Artificial Intelligence, and Duane
+  Morris Institute feeds.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
