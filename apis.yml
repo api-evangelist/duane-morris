@@ -95,7 +95,7 @@ common:
     url: https://www.duanemorris.com/site/news.html
   - type: Alerts
     url: https://www.duanemorris.com/site/alerts.html
-  - type: Blogs
+  - type: Blog
     url: https://blogs.duanemorris.com
   - type: GitHub
     url: https://github.com/duanemorris
