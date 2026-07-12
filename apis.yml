@@ -81,6 +81,8 @@ tags:
   - White Collar Defense
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/duane-morris-domain-security.yml
   - type: Website
     url: https://www.duanemorris.com
   - type: About
