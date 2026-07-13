@@ -5,14 +5,14 @@
       "source": "https://blogs.duanemorris.com/classactiondefense/feed/",
       "feed_url": "https://blogs.duanemorris.com/classactiondefense/feed/",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://blogs.duanemorris.com/laborlaw/feed/",
       "feed_url": "https://blogs.duanemorris.com/laborlaw/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "source": "https://blogs.duanemorris.com/sportslaw/feed/",
       "feed_url": "https://blogs.duanemorris.com/sportslaw/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -68,7 +68,7 @@
       "source": "https://blogs.duanemorris.com/artificialintelligence/feed/",
       "feed_url": "https://blogs.duanemorris.com/artificialintelligence/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -138,7 +138,7 @@
       "source": "https://blogs.duanemorris.com/energyenvironmental/feed/",
       "feed_url": "https://blogs.duanemorris.com/energyenvironmental/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -163,6 +163,6 @@
       "method": "none"
     }
   ],
-  "post_count": 32,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 231,
+  "fetched": "2026-07-11T11:50:51Z"
 }
