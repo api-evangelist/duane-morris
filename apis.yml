@@ -91,7 +91,7 @@ tags:
   - PFAS
   - Private Equity
   - Products Liability
-  - Real-Estate
+  - Real Estate
   - Regulatory
   - Securities
   - Sports
@@ -150,6 +150,7 @@ tags_raw:
   - Trade Secrets
   - Transportation
   - White Collar Defense
+  - Real-Estate
 apis: []
 common:
   - type: DomainSecurity
